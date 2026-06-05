@@ -1,6 +1,6 @@
 """
 TP 1.1 - Simulación de una Ruleta
-Licatta, Maite
+Autor: Licatta, Maite
 
 Uso:
     python TP1_1.py -c <corridas> -n <tiradas> -e <numero_elegido>
